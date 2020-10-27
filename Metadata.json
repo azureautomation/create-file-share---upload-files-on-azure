@@ -1,7 +1,7 @@
 {
     "Author": "Mai Ali",
     "ContentSize": 1144,
-    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-file-share-&-upload-files-on-azure/master/FileShare.ps1",
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-file-share---upload-files-on-azure/master/FileShare.ps1",
     "DownloadCount": 900,
     "Id": "Create-File-Share-upload-2ee1bea9",
     "IsFederated": false,
@@ -15,6 +15,6 @@
     "Summary": "This Script was created to create File Share & upload file on Azure",
     "Title": "Create File Share & upload Files on Azure",
     "UpdatedDate": "2018-3-26T00:00:00",
-    "Url": "https://github.com/azureautomation/create-file-share-&-upload-files-on-azure",
+    "Url": "https://github.com/azureautomation/create-file-share---upload-files-on-azure",
     "UserTags": "Microsoft Azure, Powershell, Powershell Script"
 }
